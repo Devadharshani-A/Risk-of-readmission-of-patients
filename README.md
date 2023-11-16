@@ -8,9 +8,7 @@ This project aims to predict the risk of hospital readmission for patients after
 
 ## Dataset
 
-The project uses a dataset named "diabetic_data.csv" which contains a variety of independent variables and a dependent variable "readmitted" with three categories: No readmission, readmission in less than 30 days, and readmission in more than 30 days. The dataset can be downloaded from the following link:
-
-https://universe.roboflow.com/zakir-alam/breast-cancer-dataset/dataset/7
+The project uses a dataset named "diabetic_data.csv" which contains a variety of independent variables and a dependent variable "readmitted" with three categories: No readmission, readmission in less than 30 days, and readmission in more than 30 days. 
 
 ## Code Description
 
